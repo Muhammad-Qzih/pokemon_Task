@@ -1,0 +1,26 @@
+.name {
+  background-color: rgb(236, 245, 142) !important;
+  padding: 2px;
+  border-radius: 10px;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+}
+
+.ability {
+  background-color: rgb(255, 226, 97) !important;
+  padding: 2px;
+  border-radius: 10px;
+}
+.card {
+  background-color: rgb(233, 247, 225) !important;
+}
+.NotFound {
+  text-align: center;
+  display: grid;
+  height: 100vh;
+  place-items: center;
+  color: red;
+}
